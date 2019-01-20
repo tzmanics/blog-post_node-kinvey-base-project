@@ -1,0 +1,12 @@
+{
+  "name": "node-kinvey-base-project",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tara Z. Manicsic <tzmanics@gmail.com> (https://tzmanics.com)",
+  "license": "MIT"
+}
