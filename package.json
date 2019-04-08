@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Tara Z. Manicsic <tzmanics@gmail.com> (https://tzmanics.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "kinvey-node-sdk": "^3.12.4"
+  }
 }
